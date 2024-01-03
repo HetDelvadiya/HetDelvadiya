@@ -1,9 +1,0 @@
-- 👋 Hi, I’m @HetDelvadiya
-- 👀 I’m interested in Android Developer 
-- 🌱 I’m currently learning Java 
-- 📫 How to reach me hetdelvadiya4202@gmail.com
-
-<!---
-HetDelvadiya/HetDelvadiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
